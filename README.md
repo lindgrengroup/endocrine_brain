@@ -13,3 +13,4 @@ Cite as: Currant H, Arthofer C, Ferreira T, et al. Genome-wide analysis identifi
 5. coloc - files to run colocalisation analysis
 6. hormones - files to run analysis looking for associations between neuroendocrine phenotypes, and reproductive hormone and infertility phenotypes
 7. celltype_enrichment - files to run cell type enrichment analysis
+8. replication - files to run replication GWAS and associated analyses
