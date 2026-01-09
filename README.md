@@ -6,11 +6,12 @@ Cite as: Currant H, Arthofer C, Ferreira T, et al. Genome-wide analysis identifi
 
 ## Structure
 
-1. phenotype_creation - files to establish and explore neuroendocrine phenotypes
-2. GWAS - files to run GWAS and downstream processing
-3. exome - files to analyse exome-wide association analysis data
-4. phewas - files to run phenome-wide association analysis
-5. coloc - files to run colocalisation analysis
-6. hormones - files to run analysis looking for associations between neuroendocrine phenotypes, and reproductive hormone and infertility phenotypes
-7. celltype_enrichment - files to run cell type enrichment analysis
-8. replication - files to run replication GWAS and associated analyses
+1. idp_extraction - link to files used to extract IDPs from MRI images within UK Biobank
+2. phenotype_creation - files to establish and explore neuroendocrine phenotypes
+3. GWAS - files to run GWAS and downstream processing
+4. exome - files to analyse exome-wide association analysis data
+5. phewas - files to run phenome-wide association analysis
+6. coloc - files to run colocalisation analysis
+7. hormones - files to run analysis looking for associations between neuroendocrine phenotypes, and reproductive hormone and infertility phenotypes
+8. celltype_enrichment - files to run cell type enrichment analysis
+9. replication - files to run replication GWAS and associated analyses
