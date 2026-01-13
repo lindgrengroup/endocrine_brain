@@ -1,0 +1,8 @@
+
+
+
+
+
+cat MaternalGenetics_qt_step2_out_chr1_MiscRate.regenie.gz | head -n 1 > MaternalGenetics_qt_step2_out_AllChr_MiscRate.regenie 
+  zcat  MaternalGenetics_qt_step2_out_*_MiscRate.regenie.gz | tail -n +2 -q  >> MaternalGenetics_qt_step2_out_AllChr_MiscRate.regenie 
+ls -l
